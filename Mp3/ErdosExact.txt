@@ -1,0 +1,6 @@
+No of Communities        Cumalitive Number of Edges Removed          Modularity
+      1                        0                          6.09111285715e-16
+      2                        2                          6.30531631021e-17
+      3                        2                          6.30531631021e-17
+      4                        10                          0.000501127505481
+      5                        19                          0.000502260139078
